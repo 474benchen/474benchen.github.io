@@ -4,7 +4,7 @@ title: Clothing Category Classifier
 description: Fall 2022
 img: assets/img/clothes.jpg
 importance: 2
-category: work
+category: DSC20
 ---
 <center> 
 Developed a classifier that that classifies the event type a

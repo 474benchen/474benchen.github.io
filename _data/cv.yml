@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 9th March, 2002
     - name: Languages
-      value: English, Chinese, Spanish
+      value: English
 
 - title: Education
   type: time_table
