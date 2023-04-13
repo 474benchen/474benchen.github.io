@@ -2,96 +2,86 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Benjamin Chen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 9th March, 2002
     - name: Languages
-      value: English, German
+      value: English, Chinese, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science (B.S.)
+      institution: University of California, San Diego
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Major - Data Science
+        - Specialization in Machine Learning and AI
+        - Minor - Design/Human Computer Interaction
+        - title: related coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - DSC80 Data Science in Practice
+            - DSC102 Scalable Analytics
+            - CSE158 Recommender Systems
+            - LIGN167 Deep Learning for NLP
+            - DSC140A Probabilistic Machine Learning
+            - DSC106 Data Visualization
+            - DSC100 Data Management
+            - DSC164 Data Ethics
+            - MATH183 Statistical Methods
+            
 
 - title: Experience
   type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+  contents:    
+    - title: Data Engineer Intern
+      institution: Harbor Capital
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Utilized Power BI and Power BI Report Builder to explore modern business intelligence visualizations.
+        - Applied SQL and Python knowledge to investigate automation of report generation through the Power BI API.
+    - title: Instructional Assistant
+      institution: University of California, San Diego
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Hosted weekly office hour sessions to provide one-on-one instructional guidance to students.
+        - Developed rigorous assignments to cover relevant course material and provided feedback on student work.
+        - Developed comprehensive discussion material to supplement course content.
+        - Applied a strong understanding of Python fundamentals to answer 1000+ students' questions via the online class forum.
+    - title: Software Engineer Intern
+      institution: Qualcomm Institute
+      year: 2022
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Explored potential advancements with NFT to be applied within an open-source context.
+        - Utilized various tools such as Unreal Engine, Solana and Nautilus to develop prototype NFT for educational uses.
+        - Ideated and developed a prototype DAO led by open-source ideals.
+    - title: Undergraduate Research Assistant
+      institution: University of California, San Diego
+      year: 2021-2022
+      description:
+        - Working in conjunction with the Panda Lab at the Salk Institute conducting research on sleep/activity patterns and dietary data.
+        - Overhauled legacy source code, creating documentation and reusable Python pipelines to speed up future analysis and research.
+    - title: Undergraduate Research Assistant
+      institution: Intel and University of California, San Diego
+      year: 2023
+      description:
+        - Worked with 4 billion + entries of telemetry data to derive meaningful insight regarding gamer behavior.
+        - Developed research surveys to collect user data regarding mobile games.
+        - Explored the prevalence of Dark Pattern Designs in modern games.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Natural Language Processing
+        - Model Interpretability
+    - title: Human Centered Design
       items:
-        - Description 1.
-        - Description 2.
+        - Dark Patterns
+        - Accessibility
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Cooking, Reading, Video Games, Travelling, Music, Photography, and more to be explored!
