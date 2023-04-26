@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Clothing Category Classifier
-description: Fall 2022
+title: Course Website(s)
+description: Course template and website examples
 img: assets/img/clothes.jpg
 importance: 2
 category: DSC20
