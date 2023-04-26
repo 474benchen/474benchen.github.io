@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3435 lebon Dr</p>
+    <p>3435 Lebon Dr</p>
     <p>San Diego CA 92122</p>
 
 news: false  # includes a list of news items
