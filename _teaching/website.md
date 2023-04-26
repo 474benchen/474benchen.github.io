@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Course Website(s)
+title: Course Website
 description: Course template and website examples
 img: assets/img/clothes.jpg
-importance: 2
+importance: 4
 category: DSC20
 ---
 <center> 

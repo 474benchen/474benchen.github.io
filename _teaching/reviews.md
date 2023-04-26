@@ -1,20 +1,14 @@
 ---
 layout: page
 title: Review Session(s)
-description: Course template and website examples
+description: Reviews
 img: assets/img/clothes.jpg
-importance: 2
+importance: 3
 category: DSC20
 ---
 <center> 
-Developed a classifier that that classifies the event type a
-certain piece of clothing is appropriate for based on review
-and metadata. The driving idea behind the model is to support
-a recommender system by ingesting user data and an event to
-suggest outfits. All work can be found on the 
-<a href='https://github.com/LtAstros/CSE158RTRProject'>Github page</a>.
+In order to facilitate success with students who have 3 exams laden with content in every school term,
+I was tasked to write review sessions that are similar to discussion material that cover exam topics.
+Concise and succinct presentation of information, original and challenging questions, as well as the 
+presentation of them all are just some of the challenges involved in developin this content.
 </center>
-
-<br>
-
-<object data="/assets/pdf/CSE_final_paper.pdf" type="application/pdf" width="100%" height="1000px">
