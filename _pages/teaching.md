@@ -6,7 +6,7 @@ description: classes, workshops, and teaching materials
 nav: true
 nav_order: 5
 display_categories: [DSC20]
-horizontal: false
+horizontal: False
 ---
 
 <!-- pages/teachings.md -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Assignment(s)
-description: Course template and website examples
+description: Assignments
 img: assets/img/clothes.jpg
 importance: 2
 category: DSC20

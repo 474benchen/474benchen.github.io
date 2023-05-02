@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discussions
-description: Discussion content written and developed by me.
+description: Discussion content
 img: assets/img/clothes.jpg
 importance: 1
 category: DSC20
