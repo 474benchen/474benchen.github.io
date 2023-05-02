@@ -1,0 +1,23 @@
+- title: DSC20
+  type: time_table
+  contents:    
+    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
+      institution: Spring 2023
+      description:
+        - aaaa
+    - title: <a href="https://dsc-courses.github.io/dsc20-2023-wi/"> Introduction to Python </a>
+      institution: Winter 2023
+      description:
+        - aaaa
+    - title: <a href="https://dsc-courses.github.io/dsc20-2022-fa/"> Introduction to Python </a>
+      institution: Fall 2022
+      description:
+        - aaaa
+    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
+      institution: Spring 2022
+      description:
+        - aaaa
+    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
+      institution: Winter 2022
+      description:
+        - aaaa

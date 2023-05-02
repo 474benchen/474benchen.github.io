@@ -1,7 +1,7 @@
 ---
-layout: page
-title: teaching
+layout: teaching
 permalink: /teaching/
+title: teaching
 description: classes, workshops, and teaching materials
 nav: true
 nav_order: 5
@@ -9,7 +9,7 @@ display_categories: [DSC20]
 horizontal: False
 ---
 
-<!-- pages/teachings.md -->
+<!-- pages/teachings.md
 <div class="teaching">
 {%- if site.enable_teaching_categories and page.display_categories %}
   <!-- Display categorized teachings -->
@@ -55,4 +55,4 @@ horizontal: False
   </div>
   {%- endif -%}
 {%- endif -%}
-</div>
+</div> -->
