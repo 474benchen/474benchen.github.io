@@ -1,23 +1,91 @@
-- title: DSC20
+- title: DSC20 - <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Programming and Basic Data Structures </a>
   type: time_table
   contents:    
-    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
-      institution: Spring 2023
+    - title: Discussion 1
+      institution: Course introduction
+      description: 
+      - slides
+      - recording
+    - title: Discussion 2
+      institution: Python Fundamentals and Basic Data Structures
       description:
-        - aaaa
-    - title: <a href="https://dsc-courses.github.io/dsc20-2023-wi/"> Introduction to Python </a>
-      institution: Winter 2023
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 3
+      institution: Midterm 1 Practical Run
       description:
-        - aaaa
-    - title: <a href="https://dsc-courses.github.io/dsc20-2022-fa/"> Introduction to Python </a>
-      institution: Fall 2022
+        - slides
+        - worksheet
+        - recording
+        - walkthrough
+    - title: Discussion 4
+      institution: Midterm 1 Review
       description:
-        - aaaa
-    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
-      institution: Spring 2022
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 5
+      institution: Introduction to Machine Learning
       description:
-        - aaaa
-    - title: <a href="https://dsc-courses.github.io/dsc20-2023-sp/"> Introduction to Python </a>
-      institution: Winter 2022
+        - slides
+        - recording
+    - title: Discussion 6
+      institution: Recursion, Runtime, Classes in Python
       description:
-        - aaaa
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 7
+      institution: Midterm 2 Practical Run
+      description:
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 8
+      institution: Midterm 2 Review
+      description:
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 9
+      institution: Final Exam Practical Run
+      description:
+        - slides
+        - worksheet
+        - recording
+    - title: Discussion 10
+      institution: Final Exam Review
+      description:
+        - slides
+        - worksheet
+        - recording
+
+- title: DSC20 - <a href="https://dsc-courses.github.io/dsc20-2023-wi/"> Programming and Basic Data Structures </a>
+  type: time_table
+  contents:    
+    - title: Final Exam Review
+      institution: Supplemental review content
+      description:
+        - slides
+        - recording
+    - title: Course Website
+      institution: Secondary Author
+
+- title: DSC20 - <a href="https://dsc-courses.github.io/dsc20-2022-fa/"> Programming and Basic Data Structures </a>
+  type: time_table
+  contents:    
+    - title: assignment
+      institution: term - Fall 2022
+      description:
+        - assignment (?)
+
+- title: DSC20 - Programming and Basic Data Structures
+  type: time_table
+  contents:    
+    - title: Bootcamp
+      institution: term - Spring 2022
+      description:
+        - Bootcamp
+        - assignment
+
