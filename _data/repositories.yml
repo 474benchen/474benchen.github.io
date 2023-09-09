@@ -1,12 +1,5 @@
-github_users:
-  - torvalds
-  - 474benchen
-
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - 474benchen/SP23_DSC20_discussions
+  - 474benchen/power_outages
+  - LtAstros/LIGNProject
+  - LtAstros/CSE158RTRProject

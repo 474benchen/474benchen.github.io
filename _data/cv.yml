@@ -20,15 +20,26 @@
         - Minor - Design/Human Computer Interaction
         - title: related coursework
           contents:
+            - DSC10 Principles of Data Science
+            - DSC20 Python and Data Structures
+            - DSC30 Java and Data Structures
+            - DSC40A Theoretical Foundations of Data Science
+            - DSC40B Time Complexity and Graph Theory
             - DSC80 Data Science in Practice
+            - DSC100 Databases
             - DSC102 Scalable Analytics
-            - CSE158 Recommender Systems
-            - LIGN167 Deep Learning for NLP
-            - DSC140A Probabilistic Machine Learning
             - DSC106 Data Visualization
-            - DSC100 Data Management
+            - DSC140A Probabilistic Modeling and Machine Learning
+            - DSC140B Representation Learning
+            - CSE158 Recommender Systems
+            - CSE151B Neural Networks
+            - LIGN167 Deep Learning and Natural Language Processing
+            - DSC140A Probabilistic Machine Learning
             - PHIL167 Data Ethics
             - MATH183 Statistical Methods
+            - MATH189 Exploratory Data analysis and Inference
+            - MGT153 Business Analytics
+            
             
 
 - title: Experience
@@ -38,37 +49,34 @@
       institution: Harbor Capital
       year: 2022
       description:
-        - Utilized Power BI and Power BI Report Builder to explore modern business intelligence visualizations.
-        - Applied SQL and Python knowledge to investigate automation of report generation through the Power BI API.
+        - Utilized Power BI and Power BI Report Builder to build a POC for the updated automation of Business Intelligence.
+        - Incorporate automation of report generation into existing data pipeline through the Power BI API.
+        - Pulled live data from company portfolio performance to generate effective sample reports through new automation of BI.
+        
     - title: Instructional Assistant
       institution: University of California, San Diego
-      year: 2021 - 2023
+      year: 2021 - Present
       description:
-        - Hosted weekly office hour sessions to provide one-on-one instructional guidance to students.
-        - Developed rigorous assignments to cover relevant course material and provided feedback on student work.
-        - Developed comprehensive discussion material to supplement course content.
+        - Developed original material to revamp discussion and hosted weekly discussion sections to supplement class content.
         - Applied a strong understanding of Python fundamentals to answer 1000+ students' questions via the online class forum.
-        - Co-created and maintain the course website, providing students with easy access to course information, resources, and updates.
+        - Hosted weekly office hour sessions to provide one-on-one instructional guidance to students.
+        - Co-created and maintained the course website providing students with access to course information, resources, and updates.
+
     - title: Software Engineer Intern
       institution: Qualcomm Institute
       year: 2022
       description:
-        - Explored potential advancements with NFT to be applied within an open-source context.
-        - Utilized various tools such as Unreal Engine, Solana and Nautilus to develop prototype NFT for educational uses.
-        - Ideated and developed a prototype DAO led by open-source ideals.
-    - title: Undergraduate Research Assistant
-      institution: University of California, San Diego
-      year: 2021-2022
-      description:
-        - Working in conjunction with the Panda Lab at the Salk Institute conducting research on sleep/activity patterns and dietary data.
-        - Overhauled legacy source code, creating documentation and reusable Python pipelines to speed up future analysis and research.
-    - title: Undergraduate Research Assistant
+        - Utilized Unreal Engine, Solana and Nautilus to develop prototype NFT for educational uses.
+        - Ideated and developed a prototype DAO with quantum voting and cryptocurrency with open-source ideals.
+
+    - title: Research Assistant
       institution: Intel and University of California, San Diego
       year: 2023
       description:
-        - Worked with 4 billion + entries of telemetry data to derive meaningful insight regarding gamer behavior.
-        - Developed research surveys to collect user data regarding mobile games.
-        - Explored the prevalence of Dark Pattern Designs in modern games.
+        - Partnered with Intel and faculty to investigate user behavior in relation to dark pattern designs by parsing through user data.
+        - Processed and cleaned 4 billion data entries into 100,000 entries from a computer telemtry dataset provided by Intel.
+        - Used Python and Matplotlib to generate preliminary reports regarding user behavior and labeled gamers from normal users according to insights about their behavior patterns.
+        - Generated a comprehensive survey to collect mobile data about usage patterns using Qualtrics.
 
 - title: Academic Interests
   type: nested_list
