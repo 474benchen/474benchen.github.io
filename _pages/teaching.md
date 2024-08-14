@@ -6,6 +6,7 @@ comments: true
 author_profile: true
 classes: wide
 ---
+This page is still under construction. More unpublished/ongoing content will be added soon!
 
 #### Responsibilities:
 During my time teaching Introduction to Python (DSC20), I held weekly office hours where I assisted students with understanding course material, answering their questions, and providing additional academic support. I was also responsible for creating assignments that were both engaging and challenging, aimed at reinforcing the concepts taught in class and assessing student understanding effectively.
