@@ -1,6 +1,7 @@
 ---
 layout: single
-permalink: /misc/
+permalink: /Misc/
+# title: "Misc"
 comments: false
 author_profile: false
 # classes: wide
