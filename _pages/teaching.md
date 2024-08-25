@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching"
-permalink: /teaching/
+permalink: /Teaching/
 comments: true
 author_profile: true
 classes: wide
