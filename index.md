@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: "About Me"
 classes: wide
 ---
-
-## About Me
 
 Hello! My name is **Benjamin Chen**. I am a Data Scientist specializing in Geospatial predictions, specifically wildfire modeling. I graduated Magna Cum Laude from the University of California, San Diego (UCSD) with a B.S. in Data Science and a minor in Human Centered Design. I'm broadly interested in Dark Pattern design, AI ethics, catastrophe modeling, and deep learning within a geospatial context.
 

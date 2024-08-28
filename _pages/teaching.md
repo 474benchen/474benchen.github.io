@@ -66,7 +66,7 @@ Fall 2022 represented my first foray into presenting material in a lecture fashi
 
 [Basics of Python (Exam 1 prep)](https://docs.google.com/presentation/d/1tmSP3vW3eySfwrf1zbDCqLCylHK8NR9eGmoJHD9kqwo/edit?usp=sharing)
 
-[Topics in Python( Exam 2 prep)](https://docs.google.com/presentation/d/1zNyKZx-cJQaf8c9U5-jjFWEexyhpvmkXN-Kkii8SNtM/edit?usp=sharing)
+[Topics in Python (Exam 2 prep)](https://docs.google.com/presentation/d/1zNyKZx-cJQaf8c9U5-jjFWEexyhpvmkXN-Kkii8SNtM/edit?usp=sharing)
 
 [Introduction to Recursion](https://docs.google.com/presentation/d/1TZt1VEmvUQ3dEDfC9xwL7bJ9BLdryqTE2INRrflUFjo/edit?usp=sharing)
 
